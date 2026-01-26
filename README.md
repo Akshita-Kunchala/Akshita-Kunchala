@@ -1,16 +1,20 @@
-## Hi there 👋
+## 👋 Hi, I’m Akshita Kunchala
 
-<!--
-**Akshita-Kunchala/Akshita-Kunchala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AI & ML undergraduate student  
+💻 Actively learning Python, Data Structures, and Cloud fundamentals  
+🤖 Interested in Artificial Intelligence, Machine Learning, and Software Development  
+📌 Open to internship opportunities and collaborative learning projects  
 
-Here are some ideas to get you started:
+### 🛠️ Skills & Tools
+- Python (learning, hands-on)
+- Java,C(academic basics)
+- Data Structures (Basics)
+- Machine Learning fundamentals
+- Artificial Intelligence fundamentals
+- AWS Cloud fundamentals (in progress)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 📫 How to reach me
+- Email: kunchalaakshita@gmail.com
+
+✨ Always curious, always learning.
