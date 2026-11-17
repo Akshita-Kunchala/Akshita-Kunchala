@@ -16,5 +16,6 @@
 
 ### 📫 How to reach me
 - Email: kunchalaakshita@gmail.com
+- LinkedIn: www.linkedin.com/in/akshita-kunchala
 
 ✨ Always curious, always learning.
